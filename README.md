@@ -49,7 +49,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 ![201601802-da638cb8-37d9-4196-991f-b4291431c5fa](https://user-images.githubusercontent.com/93427201/204087981-42cc4f54-8428-474e-b2d2-079d6a9043e3.png)
  
  ### 4DOF:
- ![Uploading 201601870-5e3182c2-0bd3-4f36-98c6-365768cb54d5.png…]()
+![201601870-5e3182c2-0bd3-4f36-98c6-365768cb54d5](https://user-images.githubusercontent.com/93427201/204088506-018bdb4c-cbad-4131-a5ab-c73f3e20c5c6.png)
 
  ### 4DOF:
  ![201601913-62736240-ccd7-4d47-878f-cc4871f2bfe7](https://user-images.githubusercontent.com/93427201/204088033-370ff585-7ce9-4c3d-90ac-079eeb7e7041.png)
